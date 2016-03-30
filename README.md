@@ -1,2 +1,3 @@
-# react-redux-simple-app
-React, Redux, React-Router, Webpack
+# Simple React/Redux application
+
+Keywords: React, Redux, React-Router, Webpack
