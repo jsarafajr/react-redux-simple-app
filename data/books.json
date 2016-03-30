@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Test Book 1",
+    "authorId": 1,
+    "genre": "Fantastic",
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab at, atque eligendi ex ipsum, labore maxime nulla odit officiis quas qui recusandae ut? Accusantium adipisci animi aspernatur atque, commodi consequatur dicta ea enim impedit laboriosam minima officia quisquam repellat sapiente sequi ut vero! Amet delectus dicta eum facilis iste laboriosam laudantium magnam, necessitatibus officiis possimus quasi quia tempora ullam! Consequuntur, corporis deserunt dicta dolore, dolorem eius eveniet ipsam, magnam maiores quas quisquam rerum sapiente soluta veniam voluptas? Assumenda iure obcaecati odio officia quia! Architecto dignissimos dolores ducimus eveniet excepturi, hic illo itaque minus modi quasi quia, repellendus reprehenderit tempore totam!"
+  },
+  {
+    "id": 2,
+    "title": "Test Book 2",
+    "authorId": 3,
+    "genre": "Fantastic",
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab at, atque eligendi ex ipsum, labore maxime nulla odit officiis quas qui recusandae ut? Accusantium adipisci animi aspernatur atque, commodi consequatur dicta ea enim impedit laboriosam minima officia quisquam repellat sapiente sequi ut vero! Amet delectus dicta eum facilis iste laboriosam laudantium magnam, necessitatibus officiis possimus quasi quia tempora ullam! Consequuntur, corporis deserunt dicta dolore, dolorem eius eveniet ipsam, magnam maiores quas quisquam rerum sapiente soluta veniam voluptas? Assumenda iure obcaecati odio officia quia! Architecto dignissimos dolores ducimus eveniet excepturi, hic illo itaque minus modi quasi quia, repellendus reprehenderit tempore totam!"
+  },
+  {
+    "id": 3,
+    "title": "Test Book 3",
+    "authorId": 2,
+    "genre": "Trash",
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab at, atque eligendi ex ipsum, labore maxime nulla odit officiis quas qui recusandae ut? Accusantium adipisci animi aspernatur atque, commodi consequatur dicta ea enim impedit laboriosam minima officia quisquam repellat sapiente sequi ut vero! Amet delectus dicta eum facilis iste laboriosam laudantium magnam, necessitatibus officiis possimus quasi quia tempora ullam! Consequuntur, corporis deserunt dicta dolore, dolorem eius eveniet ipsam, magnam maiores quas quisquam rerum sapiente soluta veniam voluptas? Assumenda iure obcaecati odio officia quia! Architecto dignissimos dolores ducimus eveniet excepturi, hic illo itaque minus modi quasi quia, repellendus reprehenderit tempore totam!"
+  },
+  {
+    "id": 4,
+    "title": "Test Book 4",
+    "authorId": 1,
+    "genre": "Fantastic",
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab at, atque eligendi ex ipsum, labore maxime nulla odit officiis quas qui recusandae ut? Accusantium adipisci animi aspernatur atque, commodi consequatur dicta ea enim impedit laboriosam minima officia quisquam repellat sapiente sequi ut vero! Amet delectus dicta eum facilis iste laboriosam laudantium magnam, necessitatibus officiis possimus quasi quia tempora ullam! Consequuntur, corporis deserunt dicta dolore, dolorem eius eveniet ipsam, magnam maiores quas quisquam rerum sapiente soluta veniam voluptas? Assumenda iure obcaecati odio officia quia! Architecto dignissimos dolores ducimus eveniet excepturi, hic illo itaque minus modi quasi quia, repellendus reprehenderit tempore totam!"
+  },
+  {
+    "id": 5,
+    "title": "Test Book 5",
+    "authorId": 1,
+    "genre": "Trash",
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab at, atque eligendi ex ipsum, labore maxime nulla odit officiis quas qui recusandae ut? Accusantium adipisci animi aspernatur atque, commodi consequatur dicta ea enim impedit laboriosam minima officia quisquam repellat sapiente sequi ut vero! Amet delectus dicta eum facilis iste laboriosam laudantium magnam, necessitatibus officiis possimus quasi quia tempora ullam! Consequuntur, corporis deserunt dicta dolore, dolorem eius eveniet ipsam, magnam maiores quas quisquam rerum sapiente soluta veniam voluptas? Assumenda iure obcaecati odio officia quia! Architecto dignissimos dolores ducimus eveniet excepturi, hic illo itaque minus modi quasi quia, repellendus reprehenderit tempore totam!"
+  }
+]
