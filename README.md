@@ -1,5 +1,7 @@
 # Simple React/Redux application
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jsarafajr/react-redux-simple-app.svg)](https://greenkeeper.io/)
+
 ## Instructions
 ```
 # install dependencies
